@@ -3,23 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1512863326491">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/het-netbox/scripts/docker-build.sh" timestamp="1508075685121">
         <mark key="'" line="17" column="7" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Lynda/Exercise Files/CH01/01-10/Done/page_spider.py" timestamp="1512863305185">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Lynda/page_spider.py" timestamp="1512858929509">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
